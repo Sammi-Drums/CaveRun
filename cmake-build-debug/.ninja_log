@@ -1,0 +1,11 @@
+# ninja log v6
+146	4551	7585113430325747	CMakeFiles/NewSeparate.dir/monster.cpp.obj	21eb7b47f1a2ef42
+266	4716	7585113431517168	CMakeFiles/NewSeparate.dir/player.cpp.obj	5f5f34a792979b30
+88	2127	7585116928951145	CMakeFiles/NewSeparate.dir/room.cpp.obj	7223b24e4cc87688
+79	2205	7585119058271489	CMakeFiles/NewSeparate.dir/monster.cpp.obj	21eb7b47f1a2ef42
+166	2496	7585119059141471	CMakeFiles/NewSeparate.dir/player.cpp.obj	5f5f34a792979b30
+15	2228	7585119768157833	CMakeFiles/NewSeparate.dir/main.cpp.obj	59c5c83cdd9f5bc9
+104	2697	7585119769050828	CMakeFiles/NewSeparate.dir/room.cpp.obj	7223b24e4cc87688
+2697	5162	7585119794984315	NewSeparate.exe	c5b09f98d2dd5064
+13	2422	7585127540961584	CMakeFiles/NewSeparate.dir/main.cpp.obj	59c5c83cdd9f5bc9
+2459	4049	7585127565423200	NewSeparate.exe	c5b09f98d2dd5064
